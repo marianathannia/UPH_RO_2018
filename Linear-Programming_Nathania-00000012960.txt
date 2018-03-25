@@ -1,0 +1,33 @@
+Jawaban Persamaan
+
+1. Set 2.2a - question 4
+x = 52.94
+y = 14.12
+z = 148.24
+
+2. Set 2.2a - question 10
+x = 200
+y = 50
+z = 267.5
+
+3. Set 2.2a - question 6
+x = 550
+y = 387.5
+z = 35562.5
+
+4. Set 2.2a - question 13
+x = 32.52
+y = 16.26
+z = 439.02
+
+5. Set 2.2b - question 4 (minimize)
+x = 5
+y = 6
+z = 76
+
+6. Set 2.2a - question 12
+x = 100
+y = 200
+z = 1800
+
+marianathannia/UPH_RO_2018
